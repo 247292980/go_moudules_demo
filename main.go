@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"go_moudiules_demo/demo"
+	"go_moudules_demo/demo"
 )
 
 func main() {
 	fmt.Println("hi")
-	go_moudiules_demo.Gomod("hi2")
+	go_moudules_demo.Gomod("hi2")
 }

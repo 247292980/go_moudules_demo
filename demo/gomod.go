@@ -1,4 +1,4 @@
-package go_moudiules_demo
+package go_moudules_demo
 
 import "fmt"
 
